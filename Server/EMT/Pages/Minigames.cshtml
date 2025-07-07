@@ -1,17 +1,29 @@
 ﻿@page
 @model EMT.Pages.MinigamesModel
-@{
-}
 
-@foreach (var game in Model.Minigames)
+<h1>Available Minigames</h1>
+
+@if (Model.Minigames?.Count > 0)
 {
-	<div>
-		<p>@game.Name</p>
-		@foreach (var tag in game.Tags)
-		{
-			<span class="tag">@tag, </span>
-		}
-		<p>@game.Description</p>
-		<p><img src="@game.ImageUrl" /></p>
-	</div>
+    @foreach (var game in Model.Minigames)
+    {
+        <div class="minigame">
+            <h3>@game.Name</h3>
+            <p>@game.Description</p>
+            <div>
+                @if (game.Tags != null)
+                {
+                    foreach (var tag in game.Tags)
+                    {
+                        <span class="badge bg-secondary me-1">@tag</span>
+                    }
+                }
+            </div>
+
+        </div>
+    }
+}
+else
+{
+    <p>No minigames available.</p>
 }

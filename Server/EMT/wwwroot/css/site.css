@@ -20,3 +20,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.minigame {
+    background-color: lightgrey;
+    border-radius: 12px; /* Adjust the number as needed */
+    padding: 1rem; /* Optional: adds spacing inside */
+    margin-bottom: 1rem; /* Optional: spacing between minigames */
+}
