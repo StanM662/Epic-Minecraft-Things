@@ -1,0 +1,17 @@
+﻿@page
+@model EMT.Pages.MinigamesModel
+@{
+}
+
+@foreach (var game in Model.Minigames)
+{
+	<div>
+		<p>@game.Name</p>
+		@foreach (var tag in game.Tags)
+		{
+			<span class="tag">@tag, </span>
+		}
+		<p>@game.Description</p>
+		<p><img src="@game.ImageUrl" /></p>
+	</div>
+}

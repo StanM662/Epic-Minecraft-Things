@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT\\EMT.csproj": {}
+    "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT\\EMT.csproj": {
+    "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT\\EMT.csproj",
+        "projectUniqueName": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT.csproj",
         "projectName": "EMT",
-        "projectPath": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT\\EMT.csproj",
+        "projectPath": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT.csproj",
         "packagesPath": "C:\\Users\\morre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT\\obj\\",
+        "outputPath": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

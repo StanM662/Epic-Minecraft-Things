@@ -1,0 +1,8 @@
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.AssemblyInfoInputs.cache
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.AssemblyInfo.cs
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.csproj.CoreCompileInputs.cache
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.RazorAssemblyInfo.cache
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.RazorAssemblyInfo.cs
+C:\Users\morre\source\repos\EMT\Server\EMT\obj\Debug\net8.0\EMT.sourcelink.json

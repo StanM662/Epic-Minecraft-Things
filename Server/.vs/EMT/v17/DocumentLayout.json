@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\emt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\emt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\minigames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\minigames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\homepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\homepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\minigames.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\minigames.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\models\\minigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\models\\minigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|c:\\users\\morre\\source\\repos\\emt\\server\\emt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{645E1503-4803-40B4-B992-7F4C820AA3F1}|EMT\\EMT.csproj|solutionrelative:emt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EMT",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT.csproj",
+              "RelativeDocumentMoniker": "EMT\\EMT.csproj",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\EMT.csproj",
+              "RelativeToolTip": "EMT\\EMT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T16:48:55.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "EMT\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Models\\Tag.cs",
+              "RelativeToolTip": "EMT\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:45:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\HomePage.cshtml.cs",
+              "RelativeDocumentMoniker": "EMT\\Pages\\HomePage.cshtml.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\HomePage.cshtml.cs",
+              "RelativeToolTip": "EMT\\Pages\\HomePage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:33:50.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Minigames.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Minigames.cshtml.cs",
+              "RelativeDocumentMoniker": "EMT\\Pages\\Minigames.cshtml.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Minigames.cshtml.cs",
+              "RelativeToolTip": "EMT\\Pages\\Minigames.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:31:53.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Minigame.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Models\\Minigame.cs",
+              "RelativeDocumentMoniker": "EMT\\Models\\Minigame.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Models\\Minigame.cs",
+              "RelativeToolTip": "EMT\\Models\\Minigame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:30:28.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EMT\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EMT\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:22:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "EMT\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Error.cshtml",
+              "RelativeToolTip": "EMT\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:22:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\appsettings.json",
+              "RelativeDocumentMoniker": "EMT\\appsettings.json",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\appsettings.json",
+              "RelativeToolTip": "EMT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T16:22:14.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "EMT\\Pages\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\HomePage.cshtml",
+              "RelativeToolTip": "EMT\\Pages\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:21:23.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "EMT\\Pages\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\AboutUs.cshtml",
+              "RelativeToolTip": "EMT\\Pages\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:21:10.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cshtml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Staff.cshtml",
+              "RelativeDocumentMoniker": "EMT\\Pages\\Staff.cshtml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Staff.cshtml",
+              "RelativeToolTip": "EMT\\Pages\\Staff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:20:57.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minigames.cshtml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Minigames.cshtml",
+              "RelativeDocumentMoniker": "EMT\\Pages\\Minigames.cshtml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\EMT\\Server\\EMT\\Pages\\Minigames.cshtml",
+              "RelativeToolTip": "EMT\\Pages\\Minigames.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:20:11.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
